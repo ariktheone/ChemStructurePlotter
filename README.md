@@ -6,7 +6,7 @@ Chemical Structure Plotter is a Streamlit web application that enables users to 
 
 - WEBSITE LINK:
   
-<a href="https://chemstructureplotter.onrender.com/"><img src="https://media.sd72.bc.ca/media/Default/frl/0/Visit%20Website%20Button-12.png" alt="Visit Website" style="width: 100px;"></a>
+<a href="https://chemstructureplotter.onrender.com/"><img src="https://media.sd72.bc.ca/media/Default/frl/0/Visit%20Website%20Button-12.png" alt="Visit Website" style="width: 200px;"></a>
 
 
 
