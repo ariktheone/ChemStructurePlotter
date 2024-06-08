@@ -4,7 +4,7 @@
 
 Chemical Structure Plotter is a Streamlit web application that enables users to visualize the chemical structure of compounds based on their names or SMILES strings. It utilizes PubChemPy to fetch compound details from PubChem and RDKit to generate and display the chemical structures.
 
-WEBSITE LINK: [![Visit Website](https://wedc-knowledge.lboro.ac.uk/proceedings/42/my-wedc/assets/org/Visit-website.png)](https://chemstructureplotter.onrender.com/)
+WEBSITE LINK: [![Visit Website](https://media.sd72.bc.ca/media/Default/frl/0/Visit%20Website%20Button-12.png)](https://chemstructureplotter.onrender.com/)
 
 
 
