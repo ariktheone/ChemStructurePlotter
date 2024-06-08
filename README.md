@@ -6,7 +6,6 @@ Chemical Structure Plotter is a Streamlit web application that enables users to 
 
 [![Visit Website](https://img.icons8.com/?size=100&id=68247&format=png&color=000000)](https://chemstructureplotter.onrender.com/)
 
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -65,7 +64,6 @@ Your contributions can include bug fixes, feature enhancements, documentation im
 
 ## Credits
 
-- [Streamlit](https://streamlit.io/)
-- [PubChemPy](https://pubchempy.readthedocs.io/)
-- [RDKit](https://www.rdkit.org/)
-
+- ![Streamlit](https://streamlit.io/favicon.ico) [Streamlit](https://streamlit.io/)
+- ![PubChemPy](https://pubchempy.readthedocs.io/en/latest/_images/pubchempy_logo.png) [PubChemPy](https://pubchempy.readthedocs.io/)
+- ![RDKit](https://www.rdkit.org/docs/_static/RDKit_Logo.svg) [RDKit](https://www.rdkit.org/)
