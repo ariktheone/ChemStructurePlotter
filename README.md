@@ -69,6 +69,8 @@ Your contributions can include bug fixes, feature enhancements, documentation im
 
 ## Credits
 
-- ![Streamlit](https://streamlit.io/favicon.ico) [Streamlit](https://streamlit.io/)
-- ![PubChemPy](https://pubchempy.readthedocs.io/en/latest/_images/pubchempy_logo.png) [PubChemPy](https://pubchempy.readthedocs.io/)
-- ![RDKit](https://www.rdkit.org/docs/_static/RDKit_Logo.svg) [RDKit](https://www.rdkit.org/)
+| Tool         | Usage                                  |
+|--------------|----------------------------------------|
+| [Streamlit](https://streamlit.io/)    | Building interactive web applications |
+| [PubChemPy](https://pubchempy.readthedocs.io/)    | Fetching compound details from PubChem|
+| [RDKit](https://www.rdkit.org/)        | Generating and displaying chemical structures |
