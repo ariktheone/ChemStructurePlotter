@@ -69,7 +69,7 @@ Your contributions can include bug fixes, feature enhancements, documentation im
 
 You can also connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/arijitmondal30/)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/arijitmondal30/)
 [![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://x.com/ArijitM63768876)
 
 
