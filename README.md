@@ -67,6 +67,12 @@ We welcome contributions from the community to improve Chemical Structure Plotte
 
 Your contributions can include bug fixes, feature enhancements, documentation improvements, or any other enhancements that you think would benefit the project. We appreciate your support and look forward to your contributions!
 
+You can also connect with me:
+
+[![LinkedIn](https://www.linkedin.com/in/arijitmondal30/)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://x.com/ArijitM63768876)
+
+
 ## Credits
 
 | Tool         | Usage                                  |
